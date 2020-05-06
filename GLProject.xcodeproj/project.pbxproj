@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		439FCD0C2461B7D400096617 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 439FCD0B2461B7D400096617 /* main.cpp */; };
 		439FCD142461B8CB00096617 /* test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 439FCD122461B8CB00096617 /* test.cpp */; };
+		439FCD172462B06800096617 /* test2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 439FCD152462B06800096617 /* test2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		439FCD0B2461B7D400096617 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		439FCD122461B8CB00096617 /* test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test.cpp; sourceTree = "<group>"; };
 		439FCD132461B8CB00096617 /* test.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = test.hpp; sourceTree = "<group>"; };
+		439FCD152462B06800096617 /* test2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test2.cpp; sourceTree = "<group>"; };
+		439FCD162462B06800096617 /* test2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = test2.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				439FCD0B2461B7D400096617 /* main.cpp */,
 				439FCD122461B8CB00096617 /* test.cpp */,
 				439FCD132461B8CB00096617 /* test.hpp */,
+				439FCD152462B06800096617 /* test2.cpp */,
+				439FCD162462B06800096617 /* test2.hpp */,
 			);
 			path = GLProject;
 			sourceTree = "<group>";
@@ -126,6 +131,7 @@
 			files = (
 				439FCD0C2461B7D400096617 /* main.cpp in Sources */,
 				439FCD142461B8CB00096617 /* test.cpp in Sources */,
+				439FCD172462B06800096617 /* test2.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
